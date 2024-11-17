@@ -1,0 +1,4 @@
+Takes unweighted graph as input
+./op_cENew <graph> <vertices> <number of changed edges> <% of insertion> 
+
+./op_cENew soc-sinaweibo 58655849 10000000 100 > cE_soc-sinaweibo_10M_100 

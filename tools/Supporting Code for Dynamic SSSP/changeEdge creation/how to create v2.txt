@@ -1,0 +1,2 @@
+nvcc -o op_createChangeEdges createChangedEdges.cpp
+op_createChangeEdges.exe <fullGraph.txt> <no. of nodes> <no of change edge> <percentage of insertion>

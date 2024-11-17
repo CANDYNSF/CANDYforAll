@@ -1,0 +1,17 @@
+path to get cE.out
+/disks/large/home/sriram/sriramPageRank
+
+
+10000, 100K, 1m
+100%, 50%
+
+
+my dataset path
+/home/users/akhanda/Dataset
+
+
+command to create changeEdge:
+./cE.out /home/users/akhanda/Dataset/fullGraph_r18.txt 10000 100 > /home/users/akhanda/Dataset/changeEdge_r18_10K_100
+
+
+./cE.out /home/users/akhanda/Dataset/rmat248_G.wel 10000 100 > /home/users/akhanda/Dataset/changeEdge_r24_G_10K_100
